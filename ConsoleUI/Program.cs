@@ -23,7 +23,6 @@ namespace ConsoleUI
             int bandwidth = Convert.ToInt32(bandwidthString);
 
             decimal requiredBandwidthCapacity = HelperMethods.BandwidthCapacityRequirement(fileSizeInMegaBytes);
-            Console.WriteLine(requiredBandwidthCapacity);
 
             HelperMethods.TimeToUpload(fileSizeInMegaBytes, bandwidth);
 
