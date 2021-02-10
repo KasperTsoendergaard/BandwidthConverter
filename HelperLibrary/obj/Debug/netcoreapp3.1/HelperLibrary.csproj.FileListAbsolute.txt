@@ -1,0 +1,9 @@
+C:\Users\dkKaThSo\DEV\repos\TimCorey\BandwidthConverter\HelperLibrary\bin\Debug\netcoreapp3.1\HelperLibrary.deps.json
+C:\Users\dkKaThSo\DEV\repos\TimCorey\BandwidthConverter\HelperLibrary\bin\Debug\netcoreapp3.1\HelperLibrary.dll
+C:\Users\dkKaThSo\DEV\repos\TimCorey\BandwidthConverter\HelperLibrary\bin\Debug\netcoreapp3.1\HelperLibrary.pdb
+C:\Users\dkKaThSo\DEV\repos\TimCorey\BandwidthConverter\HelperLibrary\obj\Debug\netcoreapp3.1\HelperLibrary.csprojAssemblyReference.cache
+C:\Users\dkKaThSo\DEV\repos\TimCorey\BandwidthConverter\HelperLibrary\obj\Debug\netcoreapp3.1\HelperLibrary.AssemblyInfoInputs.cache
+C:\Users\dkKaThSo\DEV\repos\TimCorey\BandwidthConverter\HelperLibrary\obj\Debug\netcoreapp3.1\HelperLibrary.AssemblyInfo.cs
+C:\Users\dkKaThSo\DEV\repos\TimCorey\BandwidthConverter\HelperLibrary\obj\Debug\netcoreapp3.1\HelperLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dkKaThSo\DEV\repos\TimCorey\BandwidthConverter\HelperLibrary\obj\Debug\netcoreapp3.1\HelperLibrary.dll
+C:\Users\dkKaThSo\DEV\repos\TimCorey\BandwidthConverter\HelperLibrary\obj\Debug\netcoreapp3.1\HelperLibrary.pdb

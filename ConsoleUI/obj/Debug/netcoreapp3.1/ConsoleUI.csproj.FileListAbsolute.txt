@@ -1,0 +1,16 @@
+C:\Users\dkKaThSo\DEV\repos\TimCorey\BandwidthConverter\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.exe
+C:\Users\dkKaThSo\DEV\repos\TimCorey\BandwidthConverter\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.deps.json
+C:\Users\dkKaThSo\DEV\repos\TimCorey\BandwidthConverter\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.json
+C:\Users\dkKaThSo\DEV\repos\TimCorey\BandwidthConverter\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.dev.json
+C:\Users\dkKaThSo\DEV\repos\TimCorey\BandwidthConverter\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Users\dkKaThSo\DEV\repos\TimCorey\BandwidthConverter\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\dkKaThSo\DEV\repos\TimCorey\BandwidthConverter\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\dkKaThSo\DEV\repos\TimCorey\BandwidthConverter\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\dkKaThSo\DEV\repos\TimCorey\BandwidthConverter\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfo.cs
+C:\Users\dkKaThSo\DEV\repos\TimCorey\BandwidthConverter\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\dkKaThSo\DEV\repos\TimCorey\BandwidthConverter\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Users\dkKaThSo\DEV\repos\TimCorey\BandwidthConverter\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\dkKaThSo\DEV\repos\TimCorey\BandwidthConverter\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache
+C:\Users\dkKaThSo\DEV\repos\TimCorey\BandwidthConverter\ConsoleUI\bin\Debug\netcoreapp3.1\HelperLibrary.dll
+C:\Users\dkKaThSo\DEV\repos\TimCorey\BandwidthConverter\ConsoleUI\bin\Debug\netcoreapp3.1\HelperLibrary.pdb
+C:\Users\dkKaThSo\DEV\repos\TimCorey\BandwidthConverter\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CopyComplete
