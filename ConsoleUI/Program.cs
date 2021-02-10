@@ -7,23 +7,38 @@ namespace ConsoleUI
     {
         static void Main(string[] args)
         {
-            DataInputModel dataInputs = new DataInputModel
-            {
-                FileSizeInMegaBytes = 172800,
-                Bandwidth = 1000
-            };
+            //DataInputModel dataInputs = new DataInputModel
+            //{
+            //    FileSizeInMegaBytes = 172800,
+            //    Bandwidth = 1000
+            //};
 
-            decimal requiredBandwidthCapacity = HelperMethods.BandwidthCapacityRequirement(dataInputs.FileSizeInMegaBytes);
+            //FOR running the EXE file:
+            Console.Write("Enter file size in MB: ");
+            var fileSize = Console.ReadLine();
+            int fileSizeInMegaBytes = Convert.ToInt32(fileSize);
 
-            HelperMethods.TimeToUpload(dataInputs.FileSizeInMegaBytes, dataInputs.Bandwidth);
+            Console.Write("Enter available Bandwidth capacity: ");
+            var bandwidthString = Console.ReadLine();
+            int bandwidth = Convert.ToInt32(bandwidthString);
 
-            HelperMethods.CapacityInPercentageBasedOnAvailableBandwidth(requiredBandwidthCapacity, dataInputs.Bandwidth);
+            decimal requiredBandwidthCapacity = HelperMethods.BandwidthCapacityRequirement(fileSizeInMegaBytes);
 
-            //Test for GitHub
+            HelperMethods.TimeToUpload(fileSizeInMegaBytes, bandwidth);
+
+            HelperMethods.CapacityInPercentageBasedOnAvailableBandwidth(requiredBandwidthCapacity, bandwidth);
+
+
+
+            //Using the interface contract - DataInputModel:
+            //decimal requiredBandwidthCapacity = HelperMethods.BandwidthCapacityRequirement(dataInputs.fileSizeInMegaBytes);
+            //HelperMethods.TimeToUpload(dataInputs.fileSizeInMegaBytes, dataInputs.Bandwidth)
+            //HelperMethods.CapacityInPercentageBasedOnAvailableBandwidth(requiredBandwidthCapacity, dataInputs.Bandwidth);
+
 
             //TODO: Byte Conversion e.g. MB to GB or Mbps to Gbps
             //TODO: convert to web app
-            
+
         }
     }
 }
