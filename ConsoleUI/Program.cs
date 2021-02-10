@@ -19,6 +19,8 @@ namespace ConsoleUI
 
             HelperMethods.CapacityInPercentageBasedOnAvailableBandwidth(requiredBandwidthCapacity, dataInputs.Bandwidth);
 
+            //Test for GitHub
+
             //TODO: Byte Conversion e.g. MB to GB or Mbps to Gbps
             //TODO: convert to web app
             
