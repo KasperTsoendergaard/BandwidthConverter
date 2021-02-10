@@ -23,12 +23,11 @@ namespace ConsoleUI
             int bandwidth = Convert.ToInt32(bandwidthString);
 
             decimal requiredBandwidthCapacity = HelperMethods.BandwidthCapacityRequirement(fileSizeInMegaBytes);
+            Console.WriteLine(requiredBandwidthCapacity);
 
             HelperMethods.TimeToUpload(fileSizeInMegaBytes, bandwidth);
 
             HelperMethods.CapacityInPercentageBasedOnAvailableBandwidth(requiredBandwidthCapacity, bandwidth);
-
-
 
             //Using the interface contract - DataInputModel:
             //decimal requiredBandwidthCapacity = HelperMethods.BandwidthCapacityRequirement(dataInputs.fileSizeInMegaBytes);
@@ -38,6 +37,8 @@ namespace ConsoleUI
 
             //TODO: Byte Conversion e.g. MB to GB or Mbps to Gbps
             //TODO: convert to web app
+
+            Console.ReadLine();
 
         }
     }
